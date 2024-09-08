@@ -31,3 +31,13 @@ img {
 .topText{
     top: 10px;
 }
+
+.delete{
+    border-radius: 50px;
+    background-color: red;
+    float: right;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    z-index: 10;
+}
