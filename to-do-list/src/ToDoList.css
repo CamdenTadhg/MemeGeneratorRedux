@@ -1,0 +1,9 @@
+li{
+    text-align: left;
+}
+
+span{
+    margin: 10px;
+    color: red;
+    cursor: pointer;
+}
